@@ -47,7 +47,7 @@
 | `test`         | Adiciona ou modifica testes no projeto.                                                                   |
 
 ##### Exemplo commit
-
+| -------------- | --------------------------------------------------------------------------------------------------------- |
 `feat: adicionado novo arquivo`
 
 
